@@ -8,7 +8,7 @@
       </div>
 
       <div class="mt-6 text-gray-500">
-            This is effing awesome
+            This is effing awesome hee
       </div>
 </div>
 
